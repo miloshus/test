@@ -1,2 +1,2 @@
 # test
-test samo
+simple test
